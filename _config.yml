@@ -3,7 +3,9 @@ analytics: {}
 content_rating:
   adult: false
 github: true
+description: demo
 opengraph: {}
+title: matt george producer editor
 author: {}
 color:
   lightness: 0.277248679491982
