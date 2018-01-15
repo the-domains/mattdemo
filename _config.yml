@@ -1,0 +1,18 @@
+name: mattdemo
+analytics: {}
+content_rating:
+  adult: false
+github: true
+opengraph: {}
+author: {}
+color:
+  lightness: 0.277248679491982
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  saturation: 0.03505221033353643
+  brandStrength: 0.7493488818289128
+  rhythmicContrast: 0.48986776976144586
